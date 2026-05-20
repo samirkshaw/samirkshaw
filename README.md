@@ -51,4 +51,4 @@ Not a highlight reel. The actual journey.
 
 ---
 
-*Currently: Day 18 of 100 · Building in public · Kolkata, India*
+*Currently: Day 22 of 100 · Building in public · Kolkata, India*
