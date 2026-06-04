@@ -10,7 +10,7 @@ Everything I learn goes here. Publicly. No exceptions.
 
 ## 🔨 What I'm Building Right Now
 
-- 🐍 **100 Days of Python** → [`100_Days-100_python-Projects`](https://github.com/samirkshaw/100_Days-100_python-Projects) — Day 18/100
+- 🐍 **100 Days of Python** → [`100_Days-100_python-Projects`](https://github.com/samirkshaw/100_Days-100_python-Projects) — Day 22/100
 - ⚔️ **DSA in C++** → [`Data_Structures_Algorithm_CPP`](https://github.com/samirkshaw/Data_Structures_Algorithm_CPP) — Daily grind
 - 🤖 **Heading into ML** → Andrew Ng's ML Specialization next
 
