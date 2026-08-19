@@ -1,54 +1,95 @@
-# Hey, I'm Samir 👋
+<div align="center">
 
-> *"Digital labor gets replaced. Creators don't."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,100:1B2A4A&height=200&section=header&text=Samir%20Kumar%20Shaw&fontSize=42&fontColor=F5F0E6&animation=fadeIn&fontAlignY=35&desc=Building%20systems%20that%20think,%20learn,%20and%20ship&descAlignY=55&descSize=16" width="100%"/>
 
-I'm a CSE student at AOT Kolkata, building toward **AI/ML Engineering** — not because it's trending, but because I want to build systems that think, learn, and function on their own terms.
+<a href="https://github.com/samirkshaw">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=F5F0E6&center=true&vCenter=true&width=600&lines=Digital+labor+gets+replaced.+Creators+don't.;CSE+%40+AOT+Kolkata+%E2%86%92+AI%2FML+Engineering;Building+in+public.+No+exceptions.;Currently+shipping%3A+HQ+Dopamine" alt="Typing SVG" />
+</a>
 
-Everything I learn goes here. Publicly. No exceptions.
-
----
-
-## 🔨 What I'm Building Right Now
-
-- 🐍 **100 Days of Python** → [`100_Days-100_python-Projects`](https://github.com/samirkshaw/100_Days-100_python-Projects) — Day 22/100
-- ⚔️ **DSA in C++** → [`Data_Structures_Algorithm_CPP`](https://github.com/samirkshaw/Data_Structures_Algorithm_CPP) — Daily grind
-- 🤖 **Heading into ML** → Andrew Ng's ML Specialization next
+</div>
 
 ---
 
-## 🛠️ Current Stack
+## 🚀 Shipped
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**[Dopamine Ledger](https://github.com/samirkshaw/HQ_DOPAMINE)** — Personal productivity system (habits + tasks + finance tracker). Refactored from a monolithic 1800-line file into 17 focused modules, migrated to a full Supabase backend, deployed on Vercel.
+`React · Vite · Supabase · Vercel`
 
-**Learning next:** NumPy · Pandas · Scikit-learn · ML Math
+**HonestBite AI** — AI-powered nutrition tracker built at VibeForge Hackathon (Adamas University). Gemini-powered meal parsing, auth, and a working prod deploy shipped inside the qualifier window.
+`React · Vite · Tailwind · Supabase · Gemini API · Vercel`
+
+**Smriti** — 6-person team project for Smart India Hackathon 2026, Heritage & Culture theme. Three AI-assisted modules (dialect documentation, artisan support, script preservation) unified under a crowdsourced trust-scoring system. Presented live to judges.
+
+**Cynox CTF** — Competed as cryptography specialist with 4 days of prep and zero prior CTF background. Team placed **3rd**. Solved RSA attacks, Base64+Caesar chains, and custom cipher challenges.
 
 ---
 
-## 📈 GitHub Stats
+## 🔨 In Progress
 
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirkshaw&show_icons=true&theme=dark&hide_border=true)
+- ⚔️ **DSA in C++** → [`Data_Structures_Algorithm_CPP`](https://github.com/samirkshaw/Data_Structures_Algorithm_CPP) — arrays, sorting, moving into binary search
+- 🐍 **100 Days of Python** → [`100_Days-100_python-Projects`](https://github.com/samirkshaw/100_Days-100_python-Projects)
+- 🤖 **AI/ML roadmap** → data foundations → ML → deep learning → applied AI agents
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirkshaw&layout=compact&theme=dark&hide_border=true)
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+**Learning next:** NumPy · Pandas · Scikit-learn · ML Math (Andrew Ng Specialization)
+
+---
+
+## 📈 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=samirkshaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F2C" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkshaw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F2C" width="48%"/>
+
+<img src="https://streak-stats.demolab.com/?user=samirkshaw&theme=tokyonight&hide_border=true&background=0A0F2C" width="97%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=samirkshaw&theme=tokyonight&no-frame=true&margin-w=8&row=1" width="97%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/samirkshaw/samirkshaw/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+
+</div>
+
+> *Setup note: this needs a one-time GitHub Action (`snake.yml`, provided separately). Once it's added and run once, GitHub regenerates the snake weekly off your live contribution graph — no manual updates ever again.*
 
 ---
 
 ## 🎯 The Target
 
-Applied AI/ML Engineer. Building the foundation now — one commit, one problem, one project at a time.
-
-Not a highlight reel. The actual journey.
-
----
+Applied AI/ML Engineer, founder-track. Not chasing placement — chasing depth of work good enough to be undeniable.
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-kumar-shaw/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Random_Air)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samir.kshaw2005@gmail.com)
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-kumar-shaw/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Random_Air)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samir.kshaw2005@gmail.com)
 
-*Currently: Day 22 of 100 · Building in public · Kolkata, India*
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:0A0F2C&height=100&section=footer"/>
+
+<p align="center"><i>Kolkata, India · Building in public</i></p>
