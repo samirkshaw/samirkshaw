@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,100:1B2A4A&height=200&section=header&text=Samir%20Kumar%20Shaw&fontSize=42&fontColor=F5F0E6&animation=fadeIn&fontAlignY=35&desc=Building%20systems%20that%20think,%20learn,%20and%20ship&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/samirkshaw">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=F5F0E6&center=true&vCenter=true&width=600&lines=Digital+labor+gets+replaced.+Creators+don't.;CSE+%40+AOT+Kolkata+%E2%86%92+AI%2FML+Engineering;Building+in+public.+No+exceptions.;Currently+shipping%3A+HQ+Dopamine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=F5F0E6&center=true&vCenter=true&width=600&lines=Digital+labor+gets+replaced.+Creators+don't.;CSE+%40+AOT+Kolkata+%E2%86%92+AI%2FML+Engineering;Building+in+public.+No+exceptions.;Every+square+below+is+earned,+not+claimed." alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,15 +12,22 @@
 
 ## 🚀 Shipped
 
-**[Dopamine Ledger](https://github.com/samirkshaw/HQ_DOPAMINE)** — Personal productivity system (habits + tasks + finance tracker). Refactored from a monolithic 1800-line file into 17 focused modules, migrated to a full Supabase backend, deployed on Vercel.
+**[Dopamine Ledger](https://github.com/samirkshaw/Dopamine_Ledger)** · [live](https://dopamine-ledger.vercel.app) — Personal productivity system (habits + tasks + finance tracker). Refactored from a monolithic 1800-line file into 17 focused modules, migrated to a full Supabase backend, deployed on Vercel.
 `React · Vite · Supabase · Vercel`
 
-**HonestBite AI** — AI-powered nutrition tracker built at VibeForge Hackathon (Adamas University). Gemini-powered meal parsing, auth, and a working prod deploy shipped inside the qualifier window.
+**[HonestBite AI](https://github.com/samirkshaw/HonestBite-AI)** · [live](https://hq-dopamine.vercel.app) — AI-powered nutrition tracker built at VibeForge Hackathon (Adamas University). Gemini-powered meal parsing, auth, and a working prod deploy shipped inside the qualifier window.
 `React · Vite · Tailwind · Supabase · Gemini API · Vercel`
 
-**Smriti** — 6-person team project for Smart India Hackathon 2026, Heritage & Culture theme. Three AI-assisted modules (dialect documentation, artisan support, script preservation) unified under a crowdsourced trust-scoring system. Presented live to judges.
+**[TeacherFlow-AI](https://github.com/samirkshaw/TeacherFlow-AI)** · [live](https://teacher-flow-ai.vercel.app) — AI edtech system surfacing per-student and class-wide weak areas for teachers, with a student-facing view of the same data. Actively being improved.
+`Express · Gemini API`
 
-**Cynox CTF** — Competed as cryptography specialist with 4 days of prep and zero prior CTF background. Team placed **3rd**. Solved RSA attacks, Base64+Caesar chains, and custom cipher challenges.
+**[Portfolio](https://github.com/samirkshaw/Samir-portfolio)** · [live](https://samir-portfolio-wine.vercel.app) — Personal site under active development.
+
+---
+
+## 🏆 Results
+
+**3rd Place, Cynox CTF** — Competed as cryptography specialist with 4 days of prep and zero prior CTF background. Solved RSA attacks, Base64+Caesar chains, and custom cipher challenges.
 
 ---
 
@@ -32,20 +39,22 @@
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Core Stack
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
-**Learning next:** NumPy · Pandas · Scikit-learn · ML Math (Andrew Ng Specialization)
+**Learning next:** Supabase · Pandas · Scikit-learn · ML Math (Andrew Ng Specialization)
 
 ---
 
@@ -53,12 +62,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samirkshaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F2C" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkshaw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F2C" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=samirkshaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F2C&hide=prs,issues" width="97%"/>
 
-<img src="https://streak-stats.demolab.com/?user=samirkshaw&theme=tokyonight&hide_border=true&background=0A0F2C" width="97%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=samirkshaw&theme=tokyonight&no-frame=true&margin-w=8&row=1" width="97%"/>
+<img src="./profile/streak.svg" width="97%"/>
 
 </div>
 
@@ -72,8 +78,6 @@
 
 </div>
 
-> *Setup note: this needs a one-time GitHub Action (`snake.yml`, provided separately). Once it's added and run once, GitHub regenerates the snake weekly off your live contribution graph — no manual updates ever again.*
-
 ---
 
 ## 🎯 The Target
@@ -86,6 +90,7 @@ Applied AI/ML Engineer, founder-track. Not chasing placement — chasing depth o
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-kumar-shaw/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Random_Air)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F5F0E6?style=for-the-badge&logo=vercel&logoColor=black)](https://samir-portfolio-wine.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samir.kshaw2005@gmail.com)
 
 </div>
